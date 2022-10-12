@@ -1,0 +1,30 @@
+.container{
+    font-weight: 900;
+    font-size: 70px;
+    position: relative;
+    left: 0;
+    right: 0;
+    
+}
+.container .letters{
+    position: absolute;
+    left: 0;
+    right: 0;
+    color: aquamarine;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    display: flex;
+
+
+
+
+
+
+
+
+
+
+    
+}
